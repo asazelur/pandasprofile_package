@@ -1,0 +1,489 @@
+running install
+running bdist_egg
+running egg_info
+writing src\pandas_profiling.egg-info\PKG-INFO
+writing dependency_links to src\pandas_profiling.egg-info\dependency_links.txt
+writing entry points to src\pandas_profiling.egg-info\entry_points.txt
+writing requirements to src\pandas_profiling.egg-info\requires.txt
+writing top-level names to src\pandas_profiling.egg-info\top_level.txt
+reading manifest file 'src\pandas_profiling.egg-info\SOURCES.txt'
+reading manifest template 'MANIFEST.in'
+writing manifest file 'src\pandas_profiling.egg-info\SOURCES.txt'
+installing library code to build\bdist.win-amd64\egg
+running install_lib
+running build_py
+copying src\pandas_profiling\version.py -> build\lib\pandas_profiling
+creating build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_constant.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_constant_length.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_duplicates.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_empty.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_high_cardinality.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_high_correlation.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_infinite.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_missing.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_skewed.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_truncated.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_type_date.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_uniform.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_unique.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_unsupported.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying src\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_zeros.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings
+creating build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\footer.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\javascript.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\navigation.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\style.html -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+creating build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\bootstrap-theme.min.css -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\bootstrap.min.css -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\bootstrap.min.js -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\flatly.bootstrap.min.css -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\jquery-1.12.4.min.js -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\script.js -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\style.css -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying src\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\united.bootstrap.min.css -> build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+creating build\bdist.win-amd64
+creating build\bdist.win-amd64\egg
+creating build\bdist.win-amd64\egg\pandas_profiling
+copying build\lib\pandas_profiling\config.py -> build\bdist.win-amd64\egg\pandas_profiling
+copying build\lib\pandas_profiling\config_default.yaml -> build\bdist.win-amd64\egg\pandas_profiling
+copying build\lib\pandas_profiling\config_minimal.yaml -> build\bdist.win-amd64\egg\pandas_profiling
+creating build\bdist.win-amd64\egg\pandas_profiling\controller
+copying build\lib\pandas_profiling\controller\console.py -> build\bdist.win-amd64\egg\pandas_profiling\controller
+copying build\lib\pandas_profiling\controller\pandas_decorator.py -> build\bdist.win-amd64\egg\pandas_profiling\controller
+copying build\lib\pandas_profiling\controller\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\controller
+copying build\lib\pandas_profiling\expectations_report.py -> build\bdist.win-amd64\egg\pandas_profiling
+creating build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\correlations.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\describe.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\duplicates.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\expectation_algorithms.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\handler.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\imghdr_patch.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\messages.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\sample.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\summarizer.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\summary.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\summary_algorithms.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\summary_helpers.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\summary_helpers_image.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\typeset.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\typeset_relations.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\model\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\model
+copying build\lib\pandas_profiling\profile_report.py -> build\bdist.win-amd64\egg\pandas_profiling
+creating build\bdist.win-amd64\egg\pandas_profiling\report
+copying build\lib\pandas_profiling\report\formatters.py -> build\bdist.win-amd64\egg\pandas_profiling\report
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\collapse.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\container.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\duplicate.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\frequency_table.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\frequency_table_small.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\html.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\image.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\item_renderer.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\renderable.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\root.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\sample.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\table.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\toggle_button.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\variable.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\variable_info.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\warnings.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+copying build\lib\pandas_profiling\report\presentation\core\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours
+copying build\lib\pandas_profiling\report\presentation\flavours\flavours.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\collapse.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\container.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\duplicate.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\frequency_table.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\frequency_table_small.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\html.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\image.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\root.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\sample.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\table.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\collapse.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\diagram.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\duplicate.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\frequency_table.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\frequency_table_small.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\report.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sample.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\batch_grid.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\grid.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\list.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\named_list.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\sections.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\select.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\sequence\tabs.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\sequence
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\table.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\toggle_button.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\variable.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\variable_info.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_constant.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_constant_length.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_duplicates.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_empty.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_high_cardinality.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_high_correlation.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_infinite.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_missing.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_skewed.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_truncated.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_type_date.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_uniform.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_unique.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_unsupported.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings\warning_zeros.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\warnings
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\warnings.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\bootstrap-theme.min.css -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\bootstrap.min.css -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\bootstrap.min.js -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\flatly.bootstrap.min.css -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\jquery-1.12.4.min.js -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\script.js -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\style.css -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets\united.bootstrap.min.css -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper\assets
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\footer.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\javascript.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\navigation.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates\wrapper\style.html -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates\wrapper
+copying build\lib\pandas_profiling\report\presentation\flavours\html\templates.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\toggle_button.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\variable.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\variable_info.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\warnings.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+copying build\lib\pandas_profiling\report\presentation\flavours\html\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html
+creating build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\collapse.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\container.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\duplicate.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\frequency_table.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\frequency_table_small.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\html.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\image.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\notebook.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\root.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\sample.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\table.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\toggle_button.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\variable.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\variable_info.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\warnings.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\widget\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget
+copying build\lib\pandas_profiling\report\presentation\flavours\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours
+copying build\lib\pandas_profiling\report\presentation\frequency_table_utils.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation
+copying build\lib\pandas_profiling\report\presentation\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\presentation
+creating build\bdist.win-amd64\egg\pandas_profiling\report\structure
+copying build\lib\pandas_profiling\report\structure\correlations.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure
+copying build\lib\pandas_profiling\report\structure\overview.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure
+copying build\lib\pandas_profiling\report\structure\report.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure
+creating build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_boolean.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_categorical.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_common.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_complex.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_count.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_date.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_file.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_generic.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_image.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_path.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_real.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\render_url.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\variables\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables
+copying build\lib\pandas_profiling\report\structure\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report\structure
+copying build\lib\pandas_profiling\report\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\report
+copying build\lib\pandas_profiling\serialize_report.py -> build\bdist.win-amd64\egg\pandas_profiling
+creating build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\utils\cache.py -> build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\utils\common.py -> build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\utils\dataframe.py -> build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\utils\notebook.py -> build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\utils\paths.py -> build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\utils\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\utils
+copying build\lib\pandas_profiling\version.py -> build\bdist.win-amd64\egg\pandas_profiling
+creating build\bdist.win-amd64\egg\pandas_profiling\visualisation
+copying build\lib\pandas_profiling\visualisation\context.py -> build\bdist.win-amd64\egg\pandas_profiling\visualisation
+copying build\lib\pandas_profiling\visualisation\missing.py -> build\bdist.win-amd64\egg\pandas_profiling\visualisation
+copying build\lib\pandas_profiling\visualisation\plot.py -> build\bdist.win-amd64\egg\pandas_profiling\visualisation
+copying build\lib\pandas_profiling\visualisation\utils.py -> build\bdist.win-amd64\egg\pandas_profiling\visualisation
+copying build\lib\pandas_profiling\visualisation\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling\visualisation
+copying build\lib\pandas_profiling\__init__.py -> build\bdist.win-amd64\egg\pandas_profiling
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\config.py to config.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\controller\console.py to console.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\controller\pandas_decorator.py to pandas_decorator.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\controller\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\expectations_report.py to expectations_report.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\correlations.py to correlations.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\describe.py to describe.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\duplicates.py to duplicates.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\expectation_algorithms.py to expectation_algorithms.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\handler.py to handler.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\imghdr_patch.py to imghdr_patch.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\messages.py to messages.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\sample.py to sample.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\summarizer.py to summarizer.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\summary.py to summary.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\summary_algorithms.py to summary_algorithms.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\summary_helpers.py to summary_helpers.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\summary_helpers_image.py to summary_helpers_image.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\typeset.py to typeset.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\typeset_relations.py to typeset_relations.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\model\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\profile_report.py to profile_report.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\formatters.py to formatters.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\collapse.py to collapse.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\container.py to container.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\duplicate.py to duplicate.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\frequency_table.py to frequency_table.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\frequency_table_small.py to frequency_table_small.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\html.py to html.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\image.py to image.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\item_renderer.py to item_renderer.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\renderable.py to renderable.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\root.py to root.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\sample.py to sample.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\table.py to table.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\toggle_button.py to toggle_button.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\variable.py to variable.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\variable_info.py to variable_info.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\warnings.py to warnings.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\core\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\flavours.py to flavours.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\collapse.py to collapse.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\container.py to container.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\duplicate.py to duplicate.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\frequency_table.py to frequency_table.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\frequency_table_small.py to frequency_table_small.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\html.py to html.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\image.py to image.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\root.py to root.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\sample.py to sample.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\table.py to table.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\templates.py to templates.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\toggle_button.py to toggle_button.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\variable.py to variable.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\variable_info.py to variable_info.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\warnings.py to warnings.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\html\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\collapse.py to collapse.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\container.py to container.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\duplicate.py to duplicate.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\frequency_table.py to frequency_table.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\frequency_table_small.py to frequency_table_small.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\html.py to html.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\image.py to image.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\notebook.py to notebook.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\root.py to root.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\sample.py to sample.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\table.py to table.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\toggle_button.py to toggle_button.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\variable.py to variable.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\variable_info.py to variable_info.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\warnings.py to warnings.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\widget\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\flavours\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\frequency_table_utils.py to frequency_table_utils.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\presentation\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\correlations.py to correlations.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\overview.py to overview.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\report.py to report.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_boolean.py to render_boolean.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_categorical.py to render_categorical.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_common.py to render_common.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_complex.py to render_complex.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_count.py to render_count.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_date.py to render_date.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_file.py to render_file.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_generic.py to render_generic.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_image.py to render_image.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_path.py to render_path.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_real.py to render_real.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\render_url.py to render_url.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\variables\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\structure\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\report\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\serialize_report.py to serialize_report.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\utils\cache.py to cache.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\utils\common.py to common.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\utils\dataframe.py to dataframe.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\utils\notebook.py to notebook.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\utils\paths.py to paths.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\utils\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\version.py to version.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\visualisation\context.py to context.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\visualisation\missing.py to missing.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\visualisation\plot.py to plot.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\visualisation\utils.py to utils.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\visualisation\__init__.py to __init__.cpython-37.pyc
+byte-compiling build\bdist.win-amd64\egg\pandas_profiling\__init__.py to __init__.cpython-37.pyc
+creating build\bdist.win-amd64\egg\EGG-INFO
+copying src\pandas_profiling.egg-info\PKG-INFO -> build\bdist.win-amd64\egg\EGG-INFO
+copying src\pandas_profiling.egg-info\SOURCES.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying src\pandas_profiling.egg-info\dependency_links.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying src\pandas_profiling.egg-info\entry_points.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying src\pandas_profiling.egg-info\requires.txt -> build\bdist.win-amd64\egg\EGG-INFO
+copying src\pandas_profiling.egg-info\top_level.txt -> build\bdist.win-amd64\egg\EGG-INFO
+creating dist
+creating 'dist\pandas_profiling-3.0.0-py3.7.egg' and adding 'build\bdist.win-amd64\egg' to it
+removing 'build\bdist.win-amd64\egg' (and everything under it)
+Processing pandas_profiling-3.0.0-py3.7.egg
+creating d:\programfiles\conda\lib\site-packages\pandas_profiling-3.0.0-py3.7.egg
+Extracting pandas_profiling-3.0.0-py3.7.egg to d:\programfiles\conda\lib\site-packages
+Adding pandas-profiling 3.0.0 to easy-install.pth file
+Installing pandas_profiling-script.py script to D:\ProgramFiles\Conda\Scripts
+Installing pandas_profiling.exe script to D:\ProgramFiles\Conda\Scripts
+
+Installed d:\programfiles\conda\lib\site-packages\pandas_profiling-3.0.0-py3.7.egg
+Processing dependencies for pandas-profiling==3.0.0
+Searching for seaborn>=0.10.1
+Reading https://pypi.org/simple/seaborn/
+Downloading https://files.pythonhosted.org/packages/68/ad/6c2406ae175f59ec616714e408979b674fe27b9587f79d59a528ddfbcd5b/seaborn-0.11.1-py3-none-any.whl#sha256=4e1cce9489449a1c6ff3c567f2113cdb41122f727e27a984950d004a88ef3c5c
+Best match: seaborn 0.11.1
+Processing seaborn-0.11.1-py3-none-any.whl
+Installing seaborn-0.11.1-py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\seaborn-0.11.1-py3.7.egg\EGG-INFO\requires.txt
+Adding seaborn 0.11.1 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\seaborn-0.11.1-py3.7.egg
+Searching for tqdm>=4.48.2
+Reading https://pypi.org/simple/tqdm/
+Downloading https://files.pythonhosted.org/packages/72/8a/34efae5cf9924328a8f34eeb2fdaae14c011462d9f0e3fcded48e1266d1c/tqdm-4.60.0-py2.py3-none-any.whl#sha256=daec693491c52e9498632dfbe9ccfc4882a557f5fa08982db1b4d3adbe0887c3
+Best match: tqdm 4.60.0
+Processing tqdm-4.60.0-py2.py3-none-any.whl
+Installing tqdm-4.60.0-py2.py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\tqdm-4.60.0-py3.7.egg\EGG-INFO\requires.txt
+Adding tqdm 4.60.0 to easy-install.pth file
+Installing tqdm-script.py script to D:\ProgramFiles\Conda\Scripts
+Installing tqdm.exe script to D:\ProgramFiles\Conda\Scripts
+
+Installed d:\programfiles\conda\lib\site-packages\tqdm-4.60.0-py3.7.egg
+Searching for requests>=2.24.0
+Reading https://pypi.org/simple/requests/
+Downloading https://files.pythonhosted.org/packages/29/c1/24814557f1d22c56d50280771a17307e6bf87b70727d975fd6b2ce6b014a/requests-2.25.1-py2.py3-none-any.whl#sha256=c210084e36a42ae6b9219e00e48287def368a26d03a048ddad7bfee44f75871e
+Best match: requests 2.25.1
+Processing requests-2.25.1-py2.py3-none-any.whl
+Installing requests-2.25.1-py2.py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\requests-2.25.1-py3.7.egg\EGG-INFO\requires.txt
+Adding requests 2.25.1 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\requests-2.25.1-py3.7.egg
+Searching for tangled-up-in-unicode==0.1.0
+Reading https://pypi.org/simple/tangled-up-in-unicode/
+Downloading https://files.pythonhosted.org/packages/93/3e/cb354fb2097fcf2fd5b5a342b10ae2a6e9363ba435b64e3e00c414064bc7/tangled_up_in_unicode-0.1.0-py3-none-any.whl#sha256=a06dea9cf93dcda6a720c46bb86a41e84372e3123c7fd6bef9e66add1dd41019
+Best match: tangled-up-in-unicode 0.1.0
+Processing tangled_up_in_unicode-0.1.0-py3-none-any.whl
+Installing tangled_up_in_unicode-0.1.0-py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+Adding tangled-up-in-unicode 0.1.0 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\tangled_up_in_unicode-0.1.0-py3.7.egg
+Searching for phik>=0.11.1
+Reading https://pypi.org/simple/phik/
+Downloading https://files.pythonhosted.org/packages/b7/ce/193e8ddf62d4be643b9b4b20e8e9c63b2f6a20f92778c0410c629f89bdaa/phik-0.11.2.tar.gz#sha256=f6734d9f0e36a5a609727f918635638492857b9467fc01c1bc3b5d066bc35c47
+Best match: phik 0.11.2
+Processing phik-0.11.2.tar.gz
+Writing C:\Users\Wangpl\AppData\Local\Temp\easy_install-90b44ge7\phik-0.11.2\setup.cfg
+Running phik-0.11.2\setup.py -q bdist_egg --dist-dir C:\Users\Wangpl\AppData\Local\Temp\easy_install-90b44ge7\phik-0.11.2\egg-dist-tmp-8ustl1qr
+Copying phik-0.11.2-py3.7.egg to d:\programfiles\conda\lib\site-packages
+Adding phik 0.11.2 to easy-install.pth file
+Installing phik_trial-script.py script to D:\ProgramFiles\Conda\Scripts
+Installing phik_trial.exe script to D:\ProgramFiles\Conda\Scripts
+
+Installed d:\programfiles\conda\lib\site-packages\phik-0.11.2-py3.7.egg
+Searching for missingno>=0.4.2
+Reading https://pypi.org/simple/missingno/
+Downloading https://files.pythonhosted.org/packages/2b/de/6e4dd6d720c49939544352155dc06a08c9f7e4271aa631a559dfbeaaf9d4/missingno-0.4.2-py3-none-any.whl#sha256=a7d13b36cbb7b422b8b504d9661b23e0db99833ce8b60f9e0e5c8bdab2ccb857
+Best match: missingno 0.4.2
+Processing missingno-0.4.2-py3-none-any.whl
+Installing missingno-0.4.2-py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\missingno-0.4.2-py3.7.egg\EGG-INFO\requires.txt
+Adding missingno 0.4.2 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\missingno-0.4.2-py3.7.egg
+Searching for htmlmin>=0.1.12
+Reading https://pypi.org/simple/htmlmin/
+Downloading https://files.pythonhosted.org/packages/b3/e7/fcd59e12169de19f0131ff2812077f964c6b960e7c09804d30a7bf2ab461/htmlmin-0.1.12.tar.gz#sha256=50c1ef4630374a5d723900096a961cff426dff46b48f34d194a81bbe14eca178
+Best match: htmlmin 0.1.12
+Processing htmlmin-0.1.12.tar.gz
+Writing C:\Users\Wangpl\AppData\Local\Temp\easy_install-jutumm96\htmlmin-0.1.12\setup.cfg
+Running htmlmin-0.1.12\setup.py -q bdist_egg --dist-dir C:\Users\Wangpl\AppData\Local\Temp\easy_install-jutumm96\htmlmin-0.1.12\egg-dist-tmp-p2_6ooei
+Copying htmlmin-0.1.12-py3.7.egg to d:\programfiles\conda\lib\site-packages
+Adding htmlmin 0.1.12 to easy-install.pth file
+Installing htmlmin-script.py script to D:\ProgramFiles\Conda\Scripts
+Installing htmlmin.exe script to D:\ProgramFiles\Conda\Scripts
+
+Installed d:\programfiles\conda\lib\site-packages\htmlmin-0.1.12-py3.7.egg
+Searching for visions[type_image_path]==0.7.1
+Reading https://pypi.org/simple/visions/
+Downloading https://files.pythonhosted.org/packages/80/96/01e4ba22cef96ae5035dbcf0451c2f4f859f8f17393b98406b23f0034279/visions-0.7.1-py3-none-any.whl#sha256=138f45b007f5a58b8faa92f4d288e0da265e6ebf88ca6a5ec655922ab8fb95da
+Best match: visions 0.7.1
+Processing visions-0.7.1-py3-none-any.whl
+Installing visions-0.7.1-py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\visions-0.7.1-py3.7.egg\EGG-INFO\requires.txt
+Adding visions 0.7.1 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\visions-0.7.1-py3.7.egg
+Searching for jinja2>=2.11.1
+Reading https://pypi.org/simple/jinja2/
+Downloading https://files.pythonhosted.org/packages/48/9b/dc3bbfc44d851632df958acf9d47e4de662c6bbd238e46798d555d427b27/Jinja2-3.0.0-py3-none-any.whl#sha256=2f2de5285cf37f33d33ecd4a9080b75c87cd0c1994d5a9c6df17131ea1f049c6
+Best match: Jinja2 3.0.0
+Processing Jinja2-3.0.0-py3-none-any.whl
+Installing Jinja2-3.0.0-py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\Jinja2-3.0.0-py3.7.egg\EGG-INFO\requires.txt
+Adding Jinja2 3.0.0 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\jinja2-3.0.0-py3.7.egg
+Searching for pydantic>=1.8.1
+Reading https://pypi.org/simple/pydantic/
+Downloading https://files.pythonhosted.org/packages/ff/74/54e030641601112309f6d2af620774e9080f99c7a15742fc6a0b170c4076/pydantic-1.8.2-py3-none-any.whl#sha256=fec866a0b59f372b7e776f2d7308511784dace622e0992a0b59ea3ccee0ae833
+Best match: pydantic 1.8.2
+Processing pydantic-1.8.2-py3-none-any.whl
+Installing pydantic-1.8.2-py3-none-any.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\pydantic-1.8.2-py3.7.egg\EGG-INFO\requires.txt
+Adding pydantic 1.8.2 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\pydantic-1.8.2-py3.7.egg
+Searching for matplotlib>=3.2.0
+Reading https://pypi.org/simple/matplotlib/
+Downloading https://files.pythonhosted.org/packages/ec/f2/536de9d6eb75b053ea53944da62564499d5a3c786efe77f7075e35954782/matplotlib-3.4.2-cp37-cp37m-win_amd64.whl#sha256=6382bc6e2d7e481bcd977eb131c31dee96e0fb4f9177d15ec6fb976d3b9ace1a
+Best match: matplotlib 3.4.2
+Processing matplotlib-3.4.2-cp37-cp37m-win_amd64.whl
+Installing matplotlib-3.4.2-cp37-cp37m-win_amd64.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\matplotlib-3.4.2-py3.7-win-amd64.egg\EGG-INFO\requires.txt
+Adding matplotlib 3.4.2 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\matplotlib-3.4.2-py3.7-win-amd64.egg
+Searching for pandas!=1.0.0,!=1.0.1,!=1.0.2,!=1.1.0,>=0.25.3
+Reading https://pypi.org/simple/pandas/
+Downloading https://files.pythonhosted.org/packages/74/8c/9cf2e5304f4466dbc759a799b97bfd75cd3dc93b00d49558ca93bfc29173/pandas-1.2.4-cp37-cp37m-win_amd64.whl#sha256=2111c25e69fa9365ba80bbf4f959400054b2771ac5d041ed19415a8b488dc70a
+Best match: pandas 1.2.4
+Processing pandas-1.2.4-cp37-cp37m-win_amd64.whl
+Installing pandas-1.2.4-cp37-cp37m-win_amd64.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\pandas-1.2.4-py3.7-win-amd64.egg\EGG-INFO\requires.txt
+Adding pandas 1.2.4 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\pandas-1.2.4-py3.7-win-amd64.egg
+Searching for scipy>=1.4.1
+Reading https://pypi.org/simple/scipy/
+Downloading https://files.pythonhosted.org/packages/e1/8b/d05bd3bcd0057954f08f61472db95f4ac71c3f0bf5432abe651694025396/scipy-1.6.3-cp37-cp37m-win_amd64.whl#sha256=10dbcc7de03b8d635a1031cb18fd3eaa997969b64fdf78f99f19ac163a825445
+Best match: scipy 1.6.3
+Processing scipy-1.6.3-cp37-cp37m-win_amd64.whl
+Installing scipy-1.6.3-cp37-cp37m-win_amd64.whl to d:\programfiles\conda\lib\site-packages
+writing requirements to d:\programfiles\conda\lib\site-packages\scipy-1.6.3-py3.7-win-amd64.egg\EGG-INFO\requires.txt
+Adding scipy 1.6.3 to easy-install.pth file
+
+Installed d:\programfiles\conda\lib\site-packages\scipy-1.6.3-py3.7-win-amd64.egg
+
+multimethod v1.4
+typing-extension 3.10.0.0
+imagehash 4.2.0
